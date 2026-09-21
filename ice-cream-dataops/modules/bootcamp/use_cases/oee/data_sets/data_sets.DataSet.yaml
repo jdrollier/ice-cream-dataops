@@ -1,0 +1,6 @@
+externalId: {{data_pipeline_oee_source_id}}
+name: Overall Equipment Effectiveness Use Case
+description: This dataset contains asset data for Overall Equipment Effectiveness.
+writeProtected: false
+metadata:
+  origin: cognite-toolkit
